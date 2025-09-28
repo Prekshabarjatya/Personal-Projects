@@ -40,7 +40,7 @@ It emphasizes clean structure, semantic elements, and accessible markup.
 
 ---
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4677e8bf-2cf3-4662-9d76-e8bf108282e4" />
+<img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/5ea2b09b-7318-4209-87c6-c63eee9027f6" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0750444c-276d-45f2-8226-e2b30cc480bb" />
 <img width="1917" height="488" alt="image" src="https://github.com/user-attachments/assets/6b502603-4986-4d24-a409-d4b9e5748568" />
 
