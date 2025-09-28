@@ -45,5 +45,3 @@ It emphasizes clean structure, semantic elements, and accessible markup.
 <img width="1917" height="488" alt="image" src="https://github.com/user-attachments/assets/6b502603-4986-4d24-a409-d4b9e5748568" />
 
 
-
-## 📂 Project Structure
